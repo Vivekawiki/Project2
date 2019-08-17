@@ -81,17 +81,17 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    Vivekawiki.org
                 </div>
 
                 <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+                    <a href="https://laravel.com/docs">French</a>
+                    <a href="https://laracasts.com">German</a>
+                    <a href="https://laravel-news.com">Spanish</a>
+                    <a href="https://blog.laravel.com">Hebrew</a>
+                    <a href="https://nova.laravel.com">Polish</a>
+                    <a href="https://forge.laravel.com">Sanskrit</a>
+                    <a href="https://github.com/laravel/laravel">Bengali</a>
                 </div>
             </div>
         </div>
