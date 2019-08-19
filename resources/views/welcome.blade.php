@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Welcome to Vivekawiki.org</title>
+        <title>Laravel</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
@@ -90,7 +90,7 @@
                     <a href="https://laravel-news.com">Spanish</a>
                     <a href="https://blog.laravel.com">Hebrew</a>
                     <a href="https://nova.laravel.com">Polish</a>
-                    <a href="https://www.vivekawiki.com/sanskrit">Sanskrit</a>
+                    <a href="https://forge.laravel.com">Sanskrit</a>
                     <a href="https://github.com/laravel/laravel">Bengali</a>
                 </div>
             </div>
