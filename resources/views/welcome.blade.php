@@ -90,7 +90,7 @@
                     <a href="https://laravel-news.com">Spanish</a>
                     <a href="https://blog.laravel.com">Hebrew</a>
                     <a href="https://nova.laravel.com">Polish</a>
-                    <a href="https://www.vivekawiki.org/Sanskrit">Sanskrit</a>
+                    <a href="https://www.vivekawiki.com/sanskrit">Sanskrit</a>
                     <a href="https://github.com/laravel/laravel">Bengali</a>
                 </div>
             </div>

@@ -15,8 +15,8 @@ Route::get('/', function () {
     return view('welcome');
 })
 
-Route::get('/Sanskrit', function () {
-    return view('Sanskrit');
+Route::get('/sanskrit', function () {
+    return view('sanskrit');
 })
 
 
