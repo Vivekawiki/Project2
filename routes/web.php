@@ -13,7 +13,7 @@
 
 Route::get('/', function () {
     return view('welcome');
-})
+});
 
 Route::get('/sanskrit', function () {
     return view('sanskrit');
