@@ -13,4 +13,11 @@
 
 Route::get('/', function () {
     return view('welcome');
-});
+})
+
+Route::get('/Sanskrit', function () {
+    return view('Sanskrit');
+})
+
+
+;
